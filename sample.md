@@ -1,4 +1,4 @@
-# vue-markdown-loader
+# vue-markdown-loader (edited)
 
 [![npm](https://img.shields.io/npm/v/vue-markdown-loader.svg?style=flat-square)](https://www.npmjs.com/package/vue-markdown-loader)
 ![vue](https://img.shields.io/badge/vue-2.x-4fc08d.svg?colorA=2c3e50&style=flat-square)
